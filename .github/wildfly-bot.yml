@@ -17,5 +17,5 @@ wildfly:
      pattern: "\\[WFLY-\\d+\\]\\s+.*|WFLY-\\d+\\s+.*"
      message: "One of the messages is incorrect"
    base-branch:
-     pattern: "pr-test:main"
+     pattern: "main"
      message: "You are pushing to the wrong branch!"
